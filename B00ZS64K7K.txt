@@ -1,0 +1,90 @@
+R3S9FECK6PKS1W->Very good product !
+RU7NESNNXJ1J9->meh speakers on the bottom headphone jack is bad and sound cuts out some of the time.
+R36A56FJ4DARA2->This laptop provides a good bang for the buck, although it feels like the specs are hampered a bit by some of the Dell software it ships with as the system can be a bit slow to boot. The touch screen is clear and nice to use, and the touch pad works well. My biggest complaint is with the keyboard, which is cheap and flimsy. Once every few days the N key will come off and I have to mess with it to reattach it. Surprising Dell would slap such a cheap keyboard on a laptop with these specs.
+R38ILH147B94PL->Great laptop, with amazing specs for the price. Shopped around for a while,ended up back here and couldn't be a happier customer. Would 100% recommend.
+R3CPR22TQ3FXFJ->computer is good The user is not!
+R1M04Y7W9E1HU9->Runs a bit loud sometimes but is normally pretty quiet. A great buy and value overall.
+R1SIFQLS2UIOEE->After shopping around for a decent laptop I'm glad I bought this model.
+R33GTF1DSCUEZ8->Great sound via headphone!
+RCHNCG418QDOP->Best laptop I have ever purchased.  Beautifully designed  The screen is one of best I have seen in a while.... And you can't beat the price....
+ROH7B50TIU97C->Impressive machine. Very quick startup. Excellent display. Very light for size.  Plenty of power and storage for 90% of most tasks anyone  does. Internal battery cooler than expected. Audio is good. Bluetooth to external speakers , great.
+R1G9QJL6NMTQ3M->Fan sound is the major problem.
+R1Y79SPLCIRXIL->Is a pretty good laptop, but it lacks of an DVD drive
+R3MYP0G5RLDNFO->I'll just cut to the chase and tell you my experience. Maybe yours will be similar.
+Does it work with Windows 10?
+Yes. I upgraded right out of the box and it only took an hour or so. Windows 10 so far is mostly awesome coming from Windows 7. Some menus are a bit more annoying to personalization, but it's been smoother overall. Before I upgraded, I spent some time personalizating things in Windows 8 and I thought that worked very well with the touchscreen. Going to Windows 10 it feels like you lose some touch features, like being able to swipe in from the side of the screen to bring up the Start Menu. Windows 10 is more like Windows 7 than Windows 8, which is great, but means some touch features go somewhat underutilized.
+Is it fast?
+Yes and no. It's fast in the sense that browsing the web is near instant and programs open quickly. However, I find that moving files around through the explorer often lags for a few seconds. It could be the OS. Cold boot time from when I open the lid to when I'm on my Desktop is an average 15 seconds.
+Is it heavy?
+It's not light but it's not heavy. It's slim however so it feels good to hold and carry despite being rather large.
+Is the fan quiet and cool?
+It rarely gets loud or hot until you're doing something like rendering or downloading. When it does however, it is LOUD and HOT!
+Does it have a CD drive?
+Nope. I don't remember the last time I used one and I don't think you'll miss it. Fortunately, you can always pick one up separately.
+How many USB ports does it have?
+3 - one on the left and two on the right. The headphone/mic port is also on the right. I plug my graphic tablet in the left and my mouse and external on the right.
+How is the battery?
+I get around 4-5 hours on low brightness and less on high brightness, especially when doing intensive computing. If you're browsing with low settings, it'll last longer. Fortunately, the power cable is pretty long.
+How is the screen?
+It gets really bright, but it runs down the battery faster if you turn it up higher. The touchscreen is amazing, but your fingerprints will stay on the screen so be sure to wipe them off. It's glossy, not matte, and it does reflect some of the background. As for the resolution, it's great to have more things on the screen at once but more often than not I find everything to be way too small. I've zoomed in on half of my webpages because I can't read anything! The full HD resolution with true colors is great though. Made me realize a lot of things I were creating weren't calibrated correctly.
+How is the audio?
+The speakers are LOUD I never turn my volume up more than 20. Unfortunately, if you go all the way up, it distorts the sound. You shouldn't have a problem letting friends or family hear videos or music, but don't blow the speakers.
+How is the keyboard?
+Typing on this thing is amazing. It's quiet and it feels comfortable. The keys are flat and very close to the board, so it has an overall smooth texture. For some reason the numlock doesn't have a light on it while caps lock dose, so I never know when i have it turned on. As for the backlit keyboard, there are 3 settings (bright, less bright and off) and I usually keep it on the less bright option. There is no &#34;low&#34; setting unfortunately, but it's made typing in the dark so much better. The function keys are very useful, but be  sure to turn off function lock so you can use F5 to refresh browsers (again, you wont know it's on or off because no light for some reason).
+How is the touchpad?
+Honestly it's absolute garbage. The build quality of the lower half of the laptop isn't too sturdy so I am able to click the mouse by flexing the lower end of the frame. This means that if I'm lying down in bed and the laptop is slightly bent, the mouse will often count that as a &#34;click&#34;. It's beyond frustrating. Additionally, it's just too damn big and it feels like your hand has to be placed in an unnatural location to use it. Right clicking is annoying because of how far down it is on the laptop. The multi touch gestures were cool and I want to keep them on, but I disabled them because it's easy to accidentally touch the laptop with your thumbs. It's useable, but you WILL be annoyed. The good thing is, you have a touchscreen for when you're lying in bed (and tablet mode is pretty cool in Windows 10), so you don't feel useless without the mousepad. You should buy a separate one though if you're doing anything intensive.
+How is the graphics card?
+It's decent and probably better than any old computer you are using, but it's not going to handle high end gaming or streaming and probably wont be able to handle intensive video editing at high resolutions. I've had the display driver crash twice while using Sony Vegas 13 (it reboots itself however).
+Is it upgradeable?
+It looks like you can upgrade everything except the CPU and GPU, which are soldered onto the motherboard (like all Intel processors)
+What programs do you use?
+I'm just going to run through everything I have installed.
+Microsoft Edge: It's basically IE with new paint, but it doesn't have add-on support yet so it's barebones. Good for lightweight stuff I suppose.
+Google Chrome: Works as you expect. I can open 100 tabs and not have my PC die on me.
+FL Studio 12: WORKS GREAT WITH TOUCHSCREEN! Definitely fun to use in a social setting.
+Sony Vegas 13: You can render in full HD and edit clips in real time without your files skipping. It's a lot of fun and my display driver has only had a few minor issues.
+Paint Tool Sai: It works, but Sai was never good at handling big files and it doesn't seem like the extra ram helps much. I'm not sure if it's the 32 bit version or just switching the OS, but i'm having more problems with larger canvas sizes than I did before.
+Photoshop CS6: Works well including with 3D
+Google Sketchup: Lags sometimes but otherwise does fine
+Skype: I can keep it open in the background and not watch my CPU tank
+Bittorrent: Download away
+Halo Custom Edition: runs well in 720p at 30fps. You can tinker with some other things but the game crashes if you try to max it out.
+iTunes: Works well, especially with the play and skip buttons on the function keys.
+Xsplit Broadcaster: I'm new to PC streaming, but Xsplit seemed to be having trouble broadcasting at full HD because of the graphics chip being integrated. Take of that what you will
+Media Player Classic: Works well
+Apps: All of the apps are handy and some are quicker than booting up the browser. The twitter app is especially cool to use. I don't like the photo app though. It works well with the touchscreen if you're showing photo albums, but for browsing folders I'd rather use the old photo app (or picture and fax viewer if I can figure out how to download it)
+Overall, I think it's a great laptop. The biggest problems are really the integrated GPU and the mouse pad, but it's otherwise a solid buy at this price.
+Feel free to ask questions.
+RWBAW04ZJH2V5->No Powered On indicator? REALLY? I never know if I left the laptop on or not because of a lack of a Powered On indicator! I have to manually tap the mousepad, or if connected to my HDMI TV, I have to unplug the HDMI cable to be sure it's off. What idiot designed this thing?
+R9SZ92GPYB563->Very nice computer for the price I paid. Not a gaming laptop, but can play Fallout New Vegas on med settings at 720p nicely. Got it for work and its more than capable of doing all of my work related task's. Runs quiet and is very nice. Also has a backlit keyboard which was not listed and was a nice surprise. Would recommend to anyone looking for a laptop to use for work and some light gaming. Don't think you're going to run any games that require a gtx 260 or higher gpu, but for old less graphics intensive games its not bad.
+R2ZHGNDZC6W61C->Got delivery on time. Product is very good
+R28GGGVM8FXEYI->Perfect laptop for just about everything you could need not a single issue yet
+R358UAW1OODKV8->No CD/DVD drive. Apart from it is good.
+R26CFAWWJYKS04->Best laptop I've found for $500 (when it was on sale) in terms of specs. Overall experience has been amazing. No cons I can think of.
+R3M2PC0S65CNBY->24 Hour Review
+This laptop is great! Best price/performance ratio as long as you're not gaming or making videos
+-- Build quality and appearance -- 8/10
+This laptop looks very good whether you're the user or looking at someone using it. As a user, the nice keyboard and smooth matte black rubberized finish on the inside looks sleek and doesn't attract finger prints. Scratches would blend in, but dust won't. Only one sticker (small, black Intel Core i5 sticker) on the inside.
+From the outside, it takes on a more outstanding look with the brushed aluminium lid (actual metal) and silver accents around the bottom of the laptop. It looks to have a wedge shape that expands in the back to accommodate the ports and then comes to an abrupt stop towards the front. The laptop is actually on the thicker (and heavier) side, but it hides it well.
+Two points are taken off because there's a small amount of flex in the upper left hand corner of the keyboard. It originally made a squeaking noise, but seems to have gone away with some typing.
+-- Features/price -- 10/10
+I'll explain more about these later once I have used the laptop for longer. However, for the current price, there's a lot more than I had expected. Here's what you might have missed:
+-1080p IPS(!) display w/ 10 point touchscreen
+-Backlit keyboard
+-Intel RealSense 1080p 3D Webcam(s)
+-Stereo microphones
+-SD card/Memory Stick reader
+And everything else already listed. There's really nothing that I feel is missing from the laptop
+-- Display -- 8/10
+Awesome. I'm glad that I chose to opt for a 1080p display as a requirement for my new laptop. You can fit a lot on one screen, which is made even more awesome with Windows 10's multi-desktop feature. Image is very sharp and colors are wonderful. For some reason, Dell chose to ship the computer with software that makes the color temperature quite low, giving the display a yellowed look. However you can disable that in the icon tray and return it to what most people are used to.
+The display would be a 10/10, but the backlight doesn't appear to get extremely bright, and there is a ~1cm area around the display that is still glass, but does not show an image. It almost looks like an underscan issue, but it isn't.
+-- Keyboard and Trackpad -- 8/10
+The keyboard has a nice travel distance and had a number pad. There are 3 backlight settings, high, slightly less high, and off (i.e. the &#34;low&#34; setting is still too bright). What stinks is that it isn't a hardware issue, but rather a software one, because the backlight fades to off, so the LEDs are capable of a lower setting, but Dell didn't code one in.
+The trackpad is good. It doesn't lose track of my fingers, and I don't have any issues with it clicking while I type. The whole trackpad functions as one button, however if the trackpad detects a finger in the area to the right of the white line, it counts as a right click (you can also use two fingers to right click. In Windows 10, three fingers brings up Cortana, and four+ brings up the action center.
+-- Everyday performance -- 10/10
+Despite not having my SSD installed yet, I never really have to wait for anything, and pretty much everything in the UI runs at a glorious 60 fps. You're not going to have outstanding gaming performance, but it's enough to run games at 720p at low/medium settings, as long as you're plugged in. (You can force full performance while not plugged in, but RIP battery life.)
+-- Additional notes --
+This laptop is great for almost anyone that doesn't have any specific needs such as gaming or video editing. I'll update this review in a few weeks, but feel free to ask questions for the meantime. Replacing parts is easy since the whole back cover comes off and gives you access to everything but the processor (see attached picture).
+R2BIJZMG1INZOP->Very good
+RLZRJPQ7ENYXX->What is the capacity of the grafics card? 1 or 2Gb?
+R3N9D4YEAXWZKF->very nice laptop, i only wish i got a 2 in 1, but the price on this one could not be beat for all you get.
