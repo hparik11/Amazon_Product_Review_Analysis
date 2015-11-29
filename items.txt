@@ -7,7 +7,6 @@ B00VKL0I96	Dell Latitude E6420 Premium-Built 14.1-Inch Business Laptop (Intel Co
 B010DODAWM	Dell Inspiron 11 3000 Series 2-in-1  11.6 Inch Laptop (Intel Pentium N3540, 4 GB RAM, 500 GB HDD, Silver) Integrated Intel HD Graphics	Dell Marketing USA, LP
 B013PK8LGQ	Dell Inspiron 3000 15.6-Inches Windows 8.1 Laptop (Intel Pentium N3540, 4GB Memory, 500GB Hard Drive, 1366 x 768 Resolution, Bluetooth) Black	Dell Computers
 B012BPRLO4	Dell Latitude E6400 Laptop Core 2 Duo 2.53GHZ 4GB 250GB DVDRW Windows 7 PRO	Dell Computers
-B0126KYT7G	2015 Newest Dell Inspiron 15 5000 Series Premium-built 15.6-Inch HD Laptop - Newest 5th Generation Intel i7-5500U Processor 3M Cache up to 3.00 GHz - 6GB - 1TB HDD - Black	DELL
 B00YD1OQ1G	Dell Inspiron N2840 14-Inch Laptop (Intel Dual Core Processor 2.16 GHz Processor,2 GB DDR3, 500 GB Hard Drive, Windows 8.1), Black (Certified Refurbished)	Dell Computers
 B014B9IS1S	2015 Newest Dell Chromebook, 11.6 inch HD Non-Touch LCD, Intel Celeron 2955U, 4GB RAM, 16GB SSD (Certified Refurbished)	Dell Computers
 B00V2KX5JA	2015 Newest Model Dell Inspiron 15 Laptop Computer - Windows 7 Professional,15.6 Inch High-Definition WLED Backlit Screen, 5th Generation Intel Core i3-5005U Processor (3M Cache, 2.00 GHz), 4GB DDR3 RAM, 500GB HDD, DVDRW	Dell Computers
@@ -28,3 +27,9 @@ B00K4PATO8	Dell Inspiron i5748-2143sLV 17.3-Inch Laptop	Dell Computer
 B004KZJ0UM	Dell Latitude D630 14.1-Inch Notebook PC - Silver 2011 Model	Dell Marketing USA, LP
 B011KFQASE	ASUS F555LA-AB31 15.6-inch Full-HD Laptop (Core i3, 4GB RAM, 500GB HDD) with Windows 10	ASUS Computers
 B00NJNE6AA	Dell Inspiron 15 7000 Series i7537T-1122sLV 15-Inch Touchscreen Laptop (Intel Core i5 Processor, 6GB RAM)	Dell Computer
+B00VJ1P7TS	Apple MacBook Air MJVE2LL/A 13-inch Laptop (1.6 GHz Intel Core i5,4GB RAM,128 GB SSD Hard Drive, Mac OS X)	Apple Computer
+B01606KJ6C	Microsoft Surface Pro 4 (128 GB, 4 GB RAM, Intel Core i5)	Microsoft PC
+B00VGNZ4PG	Microsoft Surface 3 Tablet (10.8-Inch, 64 GB, Intel Atom, Windows 8.1) - Free Windows 10 Upgrade	Microsoft PC
+B00FF6J532	Microsoft Surface 2 (32 GB)	Microsoft Surface
+B0163GQJOU	Microsoft Surface Book (128 GB, 8 GB RAM, Intel Core i5)	Microsoft
+B00IU745S8	G-Tab Iota Quad Core Android Tablet PC [10.1 Inch IPS, 16GB, Wi-Fi] (White)	Matricom
