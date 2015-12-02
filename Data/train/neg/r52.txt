@@ -1,0 +1,1 @@
+the surface works but does not not_not not not_not not not_not not not_not recognize the surface 2 keyboard after resetting the surface and updating the uefi driver it still does not not_not not not_not not not_not not not_not work
